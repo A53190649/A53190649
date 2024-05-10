@@ -1,3 +1,4 @@
+
 Définition des feux de circulation
 feu(vert).
 feu(rouge).
